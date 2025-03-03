@@ -1,0 +1,7 @@
+dspy
+pandas
+IPython
+ollama
+chromadb
+pydantic
+langchain_huggingface
